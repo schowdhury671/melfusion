@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES=0 python inference.py \
+--test_file="data/own_test_set_4.json" \
+--text_encoder_name="google/flan-t5-large" \
+--scheduler_name="stabilityai/stable-diffusion-2-1" \
+--unet_model_config="configs/diffusion_model_config.json" \
+--batch_size=1 \
+--model="21_aug_mmgen_train_only_alpha/best/pytorch_model_2.bin" \
+--output_pth="outputs/sample_outputs_21_aug_mmgen_train_only_alpha" \
+--inference_choice="image" \
+--hf_model="declare-lab/tango-full-ft-audio-music-caps"
