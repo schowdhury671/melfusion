@@ -1,6 +1,9 @@
 # MelFusion
 
 ```
+git clone https://github.com/declare-lab/tango/
+cd tango
+
 Python version 3.11 (while creating conda env): conda create --name melfusion_env python=3.11
 
 conda activate melfusion_env
@@ -23,3 +26,4 @@ cd audioldm
 wget https://huggingface.co/haoheliu/AudioLDM-S-Full/resolve/main/audioldm-s-full
 mv audioldm-s-full audioldm-s-full.ckpt
 sudo apt-get install tmux
+```
