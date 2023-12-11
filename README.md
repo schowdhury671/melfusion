@@ -8,9 +8,9 @@ Python version 3.11 (while creating conda env): conda create --name melfusion_en
 
 conda activate melfusion_env
 
-clone this repository and go to thecorresponsing folder and execute the following commands: 
+clone this repository go to the corresponding folder and execute the following commands: 
 
-pip install -r requirements1.txt
+pip install -r requirements.txt
 cd diffusers
 pip install -e .
 pip install -r requirements2.txt
@@ -19,7 +19,7 @@ sudo apt-get install lsof
 sudo apt install git-lfs
 git lfs install
 
-go to cache direction download the following: 
+go to cache and download the following: 
 cd ~/.cache   
 mkdir audioldm
 cd audioldm
