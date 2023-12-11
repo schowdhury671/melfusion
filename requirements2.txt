@@ -1,0 +1,16 @@
+pip install datasets
+pip install torchvision
+pip install accelerate
+pip install transformers==4.27.0
+pip install torchaudio
+pip install soundfile
+pip install einops
+pip install progressbar
+pip install scipy
+pip install librosa
+pip install torchtools
+pip install resampy==0.4.2
+pip install scikit-image
+pip install torchlibrosa==0.1.0
+pip install ssr_eval
+pip install wandb
