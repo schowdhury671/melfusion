@@ -27,3 +27,14 @@ wget https://huggingface.co/haoheliu/AudioLDM-S-Full/resolve/main/audioldm-s-ful
 mv audioldm-s-full audioldm-s-full.ckpt
 sudo apt-get install tmux
 ```
+
+
+## To run training execute the following with suitable hyperparameters:
+```
+bash train_mmgen.sh
+```
+
+## To run inference:
+```
+bash inference_mmgen.sh
+```
