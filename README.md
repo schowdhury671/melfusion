@@ -1,8 +1,6 @@
 # MelFusion
 
 ```
-git clone https://github.com/declare-lab/tango/
-cd tango
 
 Python version 3.11 (while creating conda env): conda create --name melfusion_env python=3.11
 
