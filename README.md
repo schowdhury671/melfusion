@@ -11,6 +11,11 @@ clone this repository go to the corresponding folder and execute the following c
 pip install -r requirements.txt
 cd diffusers
 pip install -e .
+cd audioldm
+wget https://huggingface.co/haoheliu/AudioLDM-S-Full/resolve/main/audioldm-s-full
+mv audioldm-s-full audioldm-s-full.ckpt
+
+cd ../..
 pip install -r requirements2.txt
 
 sudo apt-get install lsof
