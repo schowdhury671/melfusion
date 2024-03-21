@@ -47,6 +47,9 @@ bash train_mmgen.sh
 bash inference_mmgen.sh
 ```
 
+## Main Results:
+![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_main_results.png)
+
 ## :pray: Acknowledgements
 
 The codebase for this work is built on the <a href="https://github.com/declare-lab/tango">Tango </a>, <a href="https://github.com/haoheliu/AudioLDM">AudioLDM </a> repository. We would like to thank the respective authors for their contribution.
