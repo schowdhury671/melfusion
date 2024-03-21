@@ -37,7 +37,7 @@ sudo apt-get install tmux
 ```
 
 
-## To run training execute the following with suitable hyperparameters:
+## To run training:
 ```
 bash train_mmgen.sh
 ```
