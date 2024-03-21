@@ -49,3 +49,14 @@ bash inference_mmgen.sh
 ## :pray: Acknowledgements
 
 The codebase for this work is built on the <a href="https://github.com/declare-lab/tango">Tango </a>, <a href="https://github.com/haoheliu/AudioLDM">AudioLDM </a> repository. We would like to thank the respective authors for their contribution.
+
+## :school_satchel: Citing MeLFusion
+
+```
+@article{chowdhury2023melfusion,
+  author    = {Chowdhury, Sanjoy and Nag, Sayan and K J, Joseph and Vasan Srinivasan, Balaji and Manocha, Dinesh},
+  title     = {MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models},
+  journal   = {CVPR},
+  year      = {2024}
+}
+```
