@@ -1,10 +1,14 @@
 # MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models, CVPR 2024
 
-## Proposed Architecture
+## Resources
+
+<a href="https://sayannag.github.io/MeLFusion/"> 🌐 Webpage </a> | <a href="https://obj.umiacs.umd.edu/obj/bucket/gamma-datasets/view/melbench_cvpr2024"> 🗂️ Datasets </a>
+
+## 💡Proposed Architecture
 ![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_architecture.png)
 
 
-## :wrench: Environment Preparation
+## 🛠️ Environment Preparation
 ```
 
 Python version 3.11 (while creating conda env): conda create --name melfusion_env python=3.11
@@ -37,18 +41,19 @@ sudo apt-get install tmux
 ```
 
 
-## To run training:
+## 🔥 To run training:
 ```
 bash train_mmgen.sh
 ```
 
-## To run inference:
+## 💊 To run inference:
 ```
 bash inference_mmgen.sh
 ```
 
 ## 📉 Main Results:
 ![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_main_results.png)
+
 
 ## :pray: Acknowledgements
 
