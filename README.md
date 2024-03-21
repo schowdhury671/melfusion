@@ -1,4 +1,8 @@
-# MeLFusion
+# MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models, CVPR 2024
+
+## Proposed Architecture
+![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_architecture.png)
+
 
 ```
 
