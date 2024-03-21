@@ -4,7 +4,7 @@
 ![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_architecture.png)
 
 
-## :wrench: Enironment Preparation
+## :wrench: Environment Preparation
 ```
 
 Python version 3.11 (while creating conda env): conda create --name melfusion_env python=3.11
