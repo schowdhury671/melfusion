@@ -47,7 +47,7 @@ bash train_mmgen.sh
 bash inference_mmgen.sh
 ```
 
-## Main Results:
+## 📉 Main Results:
 ![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_main_results.png)
 
 ## :pray: Acknowledgements
