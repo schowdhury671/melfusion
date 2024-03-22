@@ -2,7 +2,7 @@
 
 ## Resources
 
-<a href="https://sayannag.github.io/MeLFusion/"> 🌐 Webpage </a> | <a href="https://obj.umiacs.umd.edu/obj/bucket/gamma-datasets/view/melbench_cvpr2024"> 🗂️ Datasets </a>
+<a href="https://schowdhury671.github.io/melfusion_project/"> 🌐 Webpage </a> | <a href="https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2Fmelbench&ga=1"> 🗂️ Datasets </a>
 
 ## 💡Proposed Architecture
 ![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_architecture.png)
