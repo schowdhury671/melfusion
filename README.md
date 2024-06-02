@@ -2,7 +2,7 @@
 
 ## Resources
 
-<a href="https://schowdhury671.github.io/melfusion_cvpr2024/"> 🌐 Webpage </a> | <a href="https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2Fmelbench&ga=1"> 🗂️ Datasets </a>
+<a href="https://schowdhury671.github.io/melfusion_cvpr2024/"> 🌐 Webpage </a> | <a href="https://umd0-my.sharepoint.com/:f:/g/personal/sanjoyc_umd_edu/Eok6RG9QIZhNlGubG8-VsDIBhNMK6OOVAWuHpryEC3VnJw"> 🗂️ Datasets </a>
 
 ## 💡Proposed Architecture
 ![alt text](https://github.com/schowdhury671/melfusion/blob/main/diagrams/melfusion_architecture.png)
