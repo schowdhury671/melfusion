@@ -62,10 +62,12 @@ The codebase for this work is built on the <a href="https://github.com/declare-l
 ## :mortar_board: Citing MeLFusion
 
 ```
-@article{chowdhury2023melfusion,
-  author    = {Chowdhury, Sanjoy and Nag, Sayan and K J, Joseph and Vasan Srinivasan, Balaji and Manocha, Dinesh},
-  title     = {MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models},
-  journal   = {CVPR},
-  year      = {2024}
+@InProceedings{Chowdhury_2024_CVPR,
+    author    = {Chowdhury, Sanjoy and Nag, Sayan and Joseph, K J and Srinivasan, Balaji Vasan and Manocha, Dinesh},
+    title     = {MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {26826-26835}
 }
 ```
