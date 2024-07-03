@@ -1,0 +1,15 @@
+accelerate launch train_combined.py \
+--text_encoder_name="google/flan-t5-large" \
+--scheduler_name="stabilityai/stable-diffusion-2-1" \
+--unet_model_config="configs/diffusion_model_config.json" \
+--freeze_text_encoder \
+--gradient_accumulation_steps=8 \
+--snr_gamma 5 \
+--output_dir="3_oct_mmgen_train_only_alpha_updated_json_lr1e-7/" \
+--per_device_train_batch_size=1 \
+--per_device_eval_batch_size=1 \
+--num_train_epochs=80 \
+--learning_rate=1e-6 \
+--train_file="data/extended_musiccaps_train_final.json" \
+--validation_file="data/extended_musiccaps_validation_final.json" \
+--hf_model="declare-lab/tango-full-ft-audio-music-caps"
