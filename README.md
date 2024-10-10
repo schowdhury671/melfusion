@@ -57,7 +57,7 @@ bash inference_mmgen.sh
 
 ## :pray: Acknowledgements
 
-The codebase for this work is built on the <a href="https://github.com/declare-lab/tango">Tango </a>, <a href="https://github.com/haoheliu/AudioLDM">AudioLDM </a> repository. We would like to thank the respective authors for their contribution.
+The codebase for this work is built on the <a href="https://github.com/declare-lab/tango">Tango </a> and <a href="https://github.com/haoheliu/AudioLDM">AudioLDM </a> repositories. We would like to thank the respective authors for their contribution.
 
 ## :mortar_board: Citing MeLFusion
 
